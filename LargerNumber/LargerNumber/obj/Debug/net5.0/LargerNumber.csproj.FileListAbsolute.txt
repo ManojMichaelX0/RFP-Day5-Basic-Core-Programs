@@ -1,0 +1,16 @@
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.csproj.AssemblyReference.cache
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.AssemblyInfoInputs.cache
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.AssemblyInfo.cs
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.csproj.CoreCompileInputs.cache
+D:\.net\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.exe
+D:\.net\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.deps.json
+D:\.net\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.runtimeconfig.json
+D:\.net\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.runtimeconfig.dev.json
+D:\.net\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.dll
+D:\.net\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.pdb
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.dll
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\refint\LargerNumber.dll
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.pdb
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.genruntimeconfig.cache
+D:\.net\LargerNumber\LargerNumber\obj\Debug\net5.0\ref\LargerNumber.dll
