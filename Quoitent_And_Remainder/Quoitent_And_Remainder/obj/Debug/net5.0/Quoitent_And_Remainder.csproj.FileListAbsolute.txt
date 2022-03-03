@@ -1,0 +1,16 @@
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\bin\Debug\net5.0\Quoitent_And_Remainder.exe
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\bin\Debug\net5.0\Quoitent_And_Remainder.deps.json
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\bin\Debug\net5.0\Quoitent_And_Remainder.runtimeconfig.json
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\bin\Debug\net5.0\Quoitent_And_Remainder.runtimeconfig.dev.json
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\bin\Debug\net5.0\Quoitent_And_Remainder.dll
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\bin\Debug\net5.0\Quoitent_And_Remainder.pdb
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.csproj.AssemblyReference.cache
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.AssemblyInfoInputs.cache
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.AssemblyInfo.cs
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.csproj.CoreCompileInputs.cache
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.dll
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\refint\Quoitent_And_Remainder.dll
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.pdb
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\Quoitent_And_Remainder.genruntimeconfig.cache
+D:\.net\Quoitent_And_Remainder\Quoitent_And_Remainder\obj\Debug\net5.0\ref\Quoitent_And_Remainder.dll
