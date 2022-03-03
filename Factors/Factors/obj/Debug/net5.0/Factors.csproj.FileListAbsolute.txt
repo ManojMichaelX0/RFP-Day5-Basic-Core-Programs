@@ -1,0 +1,32 @@
+D:\.net\Factors\Factors\bin\Debug\net5.0\Factors.exe
+D:\.net\Factors\Factors\bin\Debug\net5.0\Factors.deps.json
+D:\.net\Factors\Factors\bin\Debug\net5.0\Factors.runtimeconfig.json
+D:\.net\Factors\Factors\bin\Debug\net5.0\Factors.runtimeconfig.dev.json
+D:\.net\Factors\Factors\bin\Debug\net5.0\Factors.dll
+D:\.net\Factors\Factors\bin\Debug\net5.0\Factors.pdb
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.csproj.AssemblyReference.cache
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.AssemblyInfoInputs.cache
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.AssemblyInfo.cs
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.csproj.CoreCompileInputs.cache
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.dll
+D:\.net\Factors\Factors\obj\Debug\net5.0\refint\Factors.dll
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.pdb
+D:\.net\Factors\Factors\obj\Debug\net5.0\Factors.genruntimeconfig.cache
+D:\.net\Factors\Factors\obj\Debug\net5.0\ref\Factors.dll
+D:\.net\Basic Core Programs\Factors\Factors\bin\Debug\net5.0\Factors.exe
+D:\.net\Basic Core Programs\Factors\Factors\bin\Debug\net5.0\Factors.deps.json
+D:\.net\Basic Core Programs\Factors\Factors\bin\Debug\net5.0\Factors.runtimeconfig.json
+D:\.net\Basic Core Programs\Factors\Factors\bin\Debug\net5.0\Factors.runtimeconfig.dev.json
+D:\.net\Basic Core Programs\Factors\Factors\bin\Debug\net5.0\Factors.dll
+D:\.net\Basic Core Programs\Factors\Factors\bin\Debug\net5.0\Factors.pdb
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.csproj.AssemblyReference.cache
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.AssemblyInfoInputs.cache
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.AssemblyInfo.cs
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.csproj.CoreCompileInputs.cache
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.dll
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\refint\Factors.dll
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.pdb
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\Factors.genruntimeconfig.cache
+D:\.net\Basic Core Programs\Factors\Factors\obj\Debug\net5.0\ref\Factors.dll
