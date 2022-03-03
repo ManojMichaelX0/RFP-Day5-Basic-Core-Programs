@@ -1,0 +1,16 @@
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\bin\Debug\net5.0\Vowel_Or_Consonant.exe
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\bin\Debug\net5.0\Vowel_Or_Consonant.deps.json
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\bin\Debug\net5.0\Vowel_Or_Consonant.runtimeconfig.json
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\bin\Debug\net5.0\Vowel_Or_Consonant.runtimeconfig.dev.json
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\bin\Debug\net5.0\Vowel_Or_Consonant.dll
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\bin\Debug\net5.0\Vowel_Or_Consonant.pdb
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.csproj.AssemblyReference.cache
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.AssemblyInfoInputs.cache
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.AssemblyInfo.cs
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.csproj.CoreCompileInputs.cache
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.dll
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\refint\Vowel_Or_Consonant.dll
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.pdb
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\Vowel_Or_Consonant.genruntimeconfig.cache
+D:\.net\Vowel_Or_Consonant\Vowel_Or_Consonant\obj\Debug\net5.0\ref\Vowel_Or_Consonant.dll
