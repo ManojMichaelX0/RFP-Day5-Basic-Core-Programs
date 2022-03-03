@@ -1,0 +1,16 @@
+D:\.net\FlipCoin\FlipCoin\bin\Debug\net5.0\FlipCoin.exe
+D:\.net\FlipCoin\FlipCoin\bin\Debug\net5.0\FlipCoin.deps.json
+D:\.net\FlipCoin\FlipCoin\bin\Debug\net5.0\FlipCoin.runtimeconfig.json
+D:\.net\FlipCoin\FlipCoin\bin\Debug\net5.0\FlipCoin.runtimeconfig.dev.json
+D:\.net\FlipCoin\FlipCoin\bin\Debug\net5.0\FlipCoin.dll
+D:\.net\FlipCoin\FlipCoin\bin\Debug\net5.0\FlipCoin.pdb
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.csproj.AssemblyReference.cache
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.AssemblyInfoInputs.cache
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.AssemblyInfo.cs
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.csproj.CoreCompileInputs.cache
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.dll
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\refint\FlipCoin.dll
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.pdb
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\FlipCoin.genruntimeconfig.cache
+D:\.net\FlipCoin\FlipCoin\obj\Debug\net5.0\ref\FlipCoin.dll
