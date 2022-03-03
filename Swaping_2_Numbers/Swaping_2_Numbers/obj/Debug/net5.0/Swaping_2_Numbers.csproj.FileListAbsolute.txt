@@ -1,0 +1,16 @@
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.csproj.AssemblyReference.cache
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.AssemblyInfoInputs.cache
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.AssemblyInfo.cs
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.csproj.CoreCompileInputs.cache
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\bin\Debug\net5.0\Swaping_2_Numbers.exe
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\bin\Debug\net5.0\Swaping_2_Numbers.deps.json
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\bin\Debug\net5.0\Swaping_2_Numbers.runtimeconfig.json
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\bin\Debug\net5.0\Swaping_2_Numbers.runtimeconfig.dev.json
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\bin\Debug\net5.0\Swaping_2_Numbers.dll
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\bin\Debug\net5.0\Swaping_2_Numbers.pdb
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.dll
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\refint\Swaping_2_Numbers.dll
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.pdb
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\Swaping_2_Numbers.genruntimeconfig.cache
+D:\.net\Swaping_2_Numbers\Swaping_2_Numbers\obj\Debug\net5.0\ref\Swaping_2_Numbers.dll

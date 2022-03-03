@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Swaping_2_Numbers/1.0.0": {
+        "runtime": {
+          "Swaping_2_Numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Swaping_2_Numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
