@@ -1,0 +1,16 @@
+D:\.net\PowerOf2\PowerOf2\bin\Debug\net5.0\PowerOf2.exe
+D:\.net\PowerOf2\PowerOf2\bin\Debug\net5.0\PowerOf2.deps.json
+D:\.net\PowerOf2\PowerOf2\bin\Debug\net5.0\PowerOf2.runtimeconfig.json
+D:\.net\PowerOf2\PowerOf2\bin\Debug\net5.0\PowerOf2.runtimeconfig.dev.json
+D:\.net\PowerOf2\PowerOf2\bin\Debug\net5.0\PowerOf2.dll
+D:\.net\PowerOf2\PowerOf2\bin\Debug\net5.0\PowerOf2.pdb
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.csproj.AssemblyReference.cache
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.AssemblyInfoInputs.cache
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.AssemblyInfo.cs
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.csproj.CoreCompileInputs.cache
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.dll
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\refint\PowerOf2.dll
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.pdb
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\PowerOf2.genruntimeconfig.cache
+D:\.net\PowerOf2\PowerOf2\obj\Debug\net5.0\ref\PowerOf2.dll
