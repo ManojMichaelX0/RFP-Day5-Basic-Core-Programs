@@ -1,0 +1,16 @@
+D:\.net\Even_Or_Odd\Even_Or_Odd\bin\Debug\net5.0\Even_Or_Odd.exe
+D:\.net\Even_Or_Odd\Even_Or_Odd\bin\Debug\net5.0\Even_Or_Odd.deps.json
+D:\.net\Even_Or_Odd\Even_Or_Odd\bin\Debug\net5.0\Even_Or_Odd.runtimeconfig.json
+D:\.net\Even_Or_Odd\Even_Or_Odd\bin\Debug\net5.0\Even_Or_Odd.runtimeconfig.dev.json
+D:\.net\Even_Or_Odd\Even_Or_Odd\bin\Debug\net5.0\Even_Or_Odd.dll
+D:\.net\Even_Or_Odd\Even_Or_Odd\bin\Debug\net5.0\Even_Or_Odd.pdb
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.csproj.AssemblyReference.cache
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.AssemblyInfoInputs.cache
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.AssemblyInfo.cs
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.csproj.CoreCompileInputs.cache
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.dll
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\refint\Even_Or_Odd.dll
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.pdb
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\Even_Or_Odd.genruntimeconfig.cache
+D:\.net\Even_Or_Odd\Even_Or_Odd\obj\Debug\net5.0\ref\Even_Or_Odd.dll
